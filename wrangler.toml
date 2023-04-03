@@ -1,9 +1,9 @@
 name = "workers-graphql-server"
 type = "webpack"
 
-account_id = ""
-zone_id = ""
-route = ""
+account_id = "f4a67da6bfae8c7b4048439922a6b12b"
+zone_id = "solide.fi"
+route = "solide.fi/api"
 
 workers_dev = true
 webpack_config = "webpack.config.js"
