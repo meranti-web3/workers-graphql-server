@@ -2,7 +2,7 @@ name = "workers-graphql-server"
 type = "webpack"
 
 account_id = "f4a67da6bfae8c7b4048439922a6b12b"
-zone_id = "solide.fi"
+zone_id = "cbc52359836a8ef5bc56e5196e596d23"
 route = "solide.fi/api"
 
 workers_dev = true
